@@ -1,13 +1,9 @@
 name: flare_toast
-description: >-
-  A premium Flutter toast notification package with fluid elastic animations,
-  Dynamic Island-inspired design, full customization support, and SafeArea-aware
-  positioning. Zero dependencies. Designed for the Flare UI ecosystem.
-version: 1.0.0
+description: A premium, customizable Flutter toast notification package with fluid elastic animations and a Dynamic Island style. Zero dependencies.
+version: 1.0.1
 homepage: https://github.com/ErsanQ/flare_toast
 repository: https://github.com/ErsanQ/flare_toast
 issue_tracker: https://github.com/ErsanQ/flare_toast/issues
-documentation: https://pub.dev/documentation/flare_toast/latest/
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

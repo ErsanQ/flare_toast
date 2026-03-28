@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.1] - 2026-03-28
+
+### Fixed
+- Shortened `pubspec.yaml` description to meet pub.dev line length rules.
+- Removed custom documentation URL to ensure pub points correctly identify documentation.
+- Updated the package logo in `README.md`.
+
+---
+
 ## [1.0.0] - 2026-03-28
 
 ### Added
