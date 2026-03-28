@@ -23,7 +23,7 @@ Part of the **Flare** premium UI ecosystem by [ErsanQ](https://github.com/ErsanQ
 > **GIF description:** The demo GIF shows a dark-themed Flutter app. When the user taps "Show Toast", a pill-shaped notification smoothly bounces into view from the top of the screen with a fluid elastic/spring animation. It displays a green check-mark icon on the left, followed by white bold text reading "Action completed!". After two seconds it gracefully fades out while sliding slightly upward, leaving the screen clean. The whole sequence takes roughly 2.8 s end-to-end.
 
 <div align="center">
-  <img src="assets/demo.gif" alt="FlareToast demo animation" width="320" />
+  <img src="assets/screenshot_toast.png" alt="FlareToast demo" width="320" />
 </div>
 
 ---
